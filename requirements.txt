@@ -1,0 +1,4 @@
+fastapi
+requests
+bs4
+uvicorn
