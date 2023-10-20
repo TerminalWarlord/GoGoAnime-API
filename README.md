@@ -10,7 +10,7 @@
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 <div align="center">
-<img alt="Vercel" src="https://img.shields.io/badge/Vercel-black?&style=for-the-badge&logoColor=white&logo=vercel"/>
+<a href="https://vercel.com/new/clone?repository-url=https://github.com/TerminalWarlord/GoGoAnime-API/"><img src="https://vercel.com/button" alt="Deploy with Vercel"/></a>
 <img alt="FastAPI" src="https://img.shields.io/badge/FASTAPI-%234ea94b?&style=for-the-badge&logoColor=black&logo=fastapi"/>
 </div>
 
